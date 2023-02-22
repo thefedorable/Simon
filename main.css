@@ -148,9 +148,7 @@ footer a {
   header {
     display: none;
   }
-  footer {
-    display: none;
-  }
+  
   main {
     flex: 1 100vh;
   }
